@@ -1,0 +1,52 @@
+h1{font-family: 'Shojumaru', cursive;
+}
+h2{font-family: 'Pacifico', cursive;
+}
+h3{font-family: 'Bowlby One SC', cursive;
+}
+h4{font-family: 'Eater', cursive;
+}
+h5{font-family: 'New Rocker', cursive;
+}
+h1{
+    text-align:center;
+}
+h2{
+    text-align:center;
+}
+h3{
+    text-align:center;
+}
+h4{
+    text-align:center;
+}
+h5{
+    text-align:center;
+}
+img{
+    width:600px;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+body{
+    background-image: url("https://images-na.ssl-images-amazon.com/images/I/71IHB9-yapL._SY355_.png");
+}
+p{
+    text-align:center;
+}
+p{
+    color:pink;
+}
+body{
+    color:red;
+}
+h1{
+    color:blue;
+}
+a{
+    color:white;
+}
